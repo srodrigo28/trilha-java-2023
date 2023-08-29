@@ -1,7 +1,10 @@
 ### Trilha Java
 
-### Trilha JPA Formação 3
-* JPA 1 : Persistência com JPA: Hibernate
+#### JPA 1 : Persistência com JPA: Hibernate
+* Java JDK :: 11
+* Spring Version :: 
+* Data :: 28/03/2023
+* Hora :: 08hs
 ``` concluído revisando
 https://cursos.alura.com.br/course/persistencia-jpa-introducao-hibernate/task/88898
 ```
@@ -11,8 +14,8 @@ https://cursos.alura.com.br/course/persistencia-jpa-introducao-hibernate/task/88
 https://cursos.alura.com.br/course/java-jpa-consultas-avancadas-performance-modelos-complexos/task/89329
 ```
 
-### Spring MVC: crie um web app com Thymeleaf e Bootstrap
-* Java JDK :: 
+### Spring MVC: crie\ um web app com Thymeleaf e Bootstrap
+* Java JDK :: 1.8
 * Spring Version :: 2.2.2
 * Data 25/10/2022
 * Hora :: 12hs
@@ -38,7 +41,7 @@ https://cursos.alura.com.br/course/java-criando-primeira-aplicacao
 ```
 
 #### Java: aplicando a Orientação a Objetos
-* Java JDK ::
+* Java JDK :: 17
 * Spring Version :: 
 * Data :: 21/07/2023
 * Hora :: 10hs
